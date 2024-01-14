@@ -1,0 +1,14 @@
+{
+    "funcionarios": [
+        {
+            "id": "",
+            "nome": "",
+            "cep": "",
+            "cidade": "",
+            "bairro": "",
+            "complemento": "",
+            "endereco": "",
+            "uf": ""
+        }
+    ]
+}
